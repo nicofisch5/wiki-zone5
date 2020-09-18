@@ -1,5 +1,10 @@
+---
+title: Main page
+lang: en-US
+---
+
 # Wiki zone 5
-[Syntaxe Markdown](http:/fr.wikipedia.org/wiki/Markdown)
+[Syntaxe Markdown](http://fr.wikipedia.org/wiki/Markdown)
 
 ## Tech
 [Docker](/docker)  
