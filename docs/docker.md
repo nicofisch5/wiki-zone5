@@ -1,3 +1,9 @@
+---
+title: Docker
+lang: en-US
+footer: Developed using VuePress
+---
+
 # Docker
 ## Lancer composer install depuis un container Docker
 ```bash
