@@ -1,25 +1,33 @@
 ---
 title: Main page
 lang: en-US
+home: true
+#heroImage: /images/banner.jpg
+heroText: Welcome to WiKi zone-5
+tagline: Passionnated by tech, basketball
+#actionText: See my work →
+#actionLink: /blog/
+#features:
+#  - title: Frontend Developer
+#    details: I am a frontend developer with expertise in Vue.js and Nuxt.js
+#  - title: Tech Blogger
+#    details: I love writing tech articles to share my knowledge on frontend frameworks, libraries, best practices and more.
+footer: Powered using VuePress
 ---
-
-# Wiki zone 5
-[Syntaxe Markdown](http://fr.wikipedia.org/wiki/Markdown)
 
 ## Tech
 [Docker](/docker)  
 [Traefik](/traefik)  
-[Magento](/magento)  
 [Bash](/bash)  
 [Ubuntu](/ubuntu)  
 
 ## English
 [Vocabulary](/english/vocabulary)  
 [Thesaurus](/english/thesaurus)  
-[Professional environment](/professional-environment)  
+[Professional environment](/english/professional-environment)  
 [Leigh](/english/Leigh)  
-[HelloTalk](/hellotalk)  
-[EF Englishlive](/englishlive)  
+[HelloTalk](/english/hellotalk)  
+[EF Englishlive](/english/englishlive)  
 [Priorities](/english/priorities)  
 
 ## Jobs
@@ -50,19 +58,3 @@ lang: en-US
 [Notions/Vocabulaire](/notions-vocabulaire)  
 [Rétrospective de sprint](/retrospective-sprint)  
 
-## Jobs recherche
-[MacAnders](/macanders)  
-[Badenoch & Clark](/badenoch-clark)  
-[SOPROFEN](/soprofen)  
-[Divalto](/divalto)  
-[Advisa](/advisa)  
-[CGI](/cgi-annonce-dp)  
-[Baume et Mercier](/baume-et-mercier)  
-[RC](/rc)  
-[Orsay](/orsay)  
-[Mars](/mars)  
-[Siemens](/siemens)  
-[Preparing for interviews](/interviews)  
-[Réussir mon job](/reussir-mon-job)  
-[Autres](/jobs-autres)  
-test
