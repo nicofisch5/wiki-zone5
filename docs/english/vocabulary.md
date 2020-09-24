@@ -405,8 +405,8 @@ I have no interest in this matter
 
 ## may / might
 
-<img :src="$withBase('/may-might.jpg')" alt="foo">
-<img :src="$withBase('/may-might2.jpg')" alt="foo">
+<img :src="$withBase('/may-might.jpg')" alt="might">
+<img :src="$withBase('/may-might2.jpg')" alt="might">
 
 may / might are interchangeable (can be replaced by could)  
 may is more realistic, might is hypothetical  
