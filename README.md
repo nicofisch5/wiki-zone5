@@ -15,3 +15,7 @@ With docker
 
 # Netlify
 [![Netlify Status](https://api.netlify.com/api/v1/badges/79f61513-c1e6-4cea-b31f-9ccbf892e5e2/deploy-status)](https://app.netlify.com/sites/wiki-vuepress/deploys)
+
+# Add a space after diese in MD files!!!
+
+sed -ri 's/(#)([a-zA-Z])/\1 \2/' *

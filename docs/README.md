@@ -31,7 +31,6 @@ footer: Powered using VuePress
 [Priorities](/english/priorities)  
 
 ## Jobs
-[CGI](/cgi)  
 [Négociation](/negotiation)  
 
 ## Español
