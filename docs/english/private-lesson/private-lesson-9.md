@@ -45,4 +45,4 @@ I've finished up to the next chapter in the book so far.
 I haven't been to the USA yet. / Have you been to the USA yet?  
 I've recently worked on......
 
-{{:pl9.png|}}
+<img :src="$withBase('/pl9.png')" alt="" />
