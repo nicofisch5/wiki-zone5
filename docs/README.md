@@ -50,6 +50,5 @@ footer: Powered using VuePress
 [Savoir manager](/mks/manager)  
 
 ## Agilité
-[Notions/Vocabulaire](/notions-vocabulaire)  
-[Rétrospective de sprint](/retrospective-sprint)  
-
+[Notions/Vocabulaire](/agilite/notions-vocabulaire)  
+[Rétrospective de sprint](/agilite/retrospective-sprint)  
