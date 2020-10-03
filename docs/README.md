@@ -37,13 +37,9 @@ footer: Powered using VuePress
 [Vocabulario](/espanol/vocabulario)  
 [Ejercicios](/espanol/ejercicios)  
 
-
-## Musique
-[Bands](/bands)  
-
 ## Netapsys  
-[Détail des travaux réalisés par client/projet](/detail-travaux-client-projet)  
-[Transition vers XXX](/transition-vers-cgi)  
+[Détail des travaux réalisés par client/projet](/netapsys/detail-travaux-client-projet)  
+[Behat & Sonar](/netapsys/behat-sonar)  
 
 ## MKS
 [Conduite de réunion](/mks/conduite-reunion)  

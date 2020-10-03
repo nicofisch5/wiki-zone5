@@ -19,3 +19,6 @@ With docker
 # Add a space after diese in MD files!!!
 
 sed -ri 's/(#)([a-zA-Z])/\1 \2/' *
+
+# Remane files!!!
+rename 's/lesson_collective-lesson/collective-lesson/' *
