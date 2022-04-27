@@ -4,7 +4,7 @@
 
 ### Preguntas
 
-| EN | FR |
+| ES | FR |
 | -- | --- |
 |¿Como?|Comment|
 |¿Cuando?|Quand|
@@ -16,36 +16,36 @@
 
 ### Time
 
-| EN | FR |
+| ES | FR |
 | -- | --- |
-|ayer, hoy, mañana||
-|mañana, mediodía, tarde, noche||
+|ayer, hoy, mañana|hier, aujourd'hui, demain|
+|mañana, mediodía, tarde, noche|matin, midi, après-midi, soir|
 |antes, ahora, después|avant, maintenant, après|
 |||
 
 ### Verbo
 
-| EN | EN |
+| ES | FR |
 | -- | --- |
-|Trabajar||
-|Jugar||
-|Comer||
-|Beber||
-|Leer||
-|Escribir||
-|Cocinar||
-|Hablar||
-|Querer|to want|
-|Saber|to know|
-|Hacer|to do|
+|Trabajar|Travailler|
+|Jugar|Jouer|
+|Comer|Manger|
+|Beber|Boire|
+|Leer|Lire|
+|Escribir|Écrire|
+|Cocinar|Cuisiner|
+|Hablar|Parler|
+|Querer|Vouloir|
+|Saber|Savoir|
+|Hacer|Faire|
 
 ### Posesión
 
-| EN | EN |
+| ES | FR |
 | -- | --- |
-|Mi amor / Mis gatos||
-|El perro no es mio / La ninã no es mia||
-|¿Más fruta?|More fruit?|
+|Mi amor / Mis gatos|Mon amour / Mes chats|
+|El perro no es mio / La ninã no es mia|Le chien n'est pas à moi / La fille n'est pas à moi|
+|¿Más fruta?|Plus de fruit ?|
 
 ### Animales
 
@@ -62,21 +62,21 @@
 
 | EN | FR |
 | -- | --- |
-|Manzana||
-|Naranja||
+|Manzana|Apple|
+|Naranja|Orange|
 
 ### Other
 
-| EN | FR |
+| ES | FR |
 | -- | --- |
-|derecha|right|
-|izquierda|left|
+|derecha|droite|
+|izquierda|gauche|
 |Jugo||
-|mucho gusto|nice to meet you|
-|lo siento|I'm sorry|
-|disculpe|Excuse me|
-|palabra||
-|frase||
-|expresión||
+|mucho gusto|heureux de vous rencontrer|
+|lo siento|désolé|
+|disculpe|excusez-moi|
+|palabra|mot|
+|frase|phrase|
+|expresión|expression|
 |dinero|money|
-|aquí|here|
+|aquí|ici|
