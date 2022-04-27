@@ -20,6 +20,7 @@ footer: Powered using VuePress
 [Traefik](/traefik)  
 [Bash](/bash)  
 [Ubuntu](/ubuntu)  
+[Alexis](/xx)  
 
 ## English
 [Vocabulary](/english/vocabulary)  
