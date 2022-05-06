@@ -38,14 +38,32 @@
 |Querer|Vouloir|
 |Saber|Savoir|
 |Hacer|Faire|
+|Pagar|Payer|
 
-# Posesión
+# Posesión / Adjetivos posesivos
 
 | ES | FR |
 | -- | --- |
 |Mi amor / Mis gatos|Mon amour / Mes chats|
 |El perro no es mio / La ninã no es mia|Le chien n'est pas à moi / La fille n'est pas à moi|
 |¿Más fruta?|Plus de fruit ?|
+
+||masculin/singulier|féminin/singulier|masculin/pluriel|féminin/pluriel|
+|:--|:--:|:--:|:--:|:--:|
+|Yo|Mi|Mi|Mis|Mis|
+|Tú|Tu|Tu|Tus|Tus|
+|El/Ella/Usted|Su|Su|Sus|Sus|
+|Nosotros|Nuestro|Nuestra|Nuestros|Nuestras|
+|Vosotros|Vuestro|Vuestra|Vuestros|Vuestras|
+|Ellos/Ellas/Ustedes|Su|Su|Sus|Sus|
+
+Tengo una moto, es **mi** moto.
+
+Tiene un amigo en Paris, es **su** amigo.
+
+Tienes un perro, es **tu** perro.
+
+Tenemos un libro rojo, es **nuestro** libro.
 
 # Animales
 
@@ -85,14 +103,16 @@
 # Frases
 
 Hoy juego baloncesto y fútbol.
+
 Ahora corro en la montaña y en la ciudad.
+
 Necessito ...
 
 # Canal de vídeos
 
-https://youtube.com/c/DreamingSpanish
-https://youtube.com/c/SpanishlandSchool
-https://youtube.com/channel/UCfG2VhlQgy5bHGmkpeKcjVA
-https://youtube.com/c/1001reasonstolearnspanishwithus
-https://youtube.com/c/EasySpanish
-https://youtube.com/c/WhyNotSpanish
+[Dreaming Spanish](https://youtube.com/c/DreamingSpanish)
+[Spanishl and School](https://youtube.com/c/SpanishlandSchool)
+[UCfG2VhlQgy5bHGmkpeKcjVA](https://youtube.com/channel/UCfG2VhlQgy5bHGmkpeKcjVA)
+[1001 reasons to learn spanish with us](https://youtube.com/c/1001reasonstolearnspanishwithus)
+[Easy Spanish](https://youtube.com/c/EasySpanish)
+[Why Not Spanish](https://youtube.com/c/WhyNotSpanish)
