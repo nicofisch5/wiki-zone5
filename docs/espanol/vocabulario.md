@@ -14,15 +14,6 @@
 |¿Como se pronuncia ...?||
 |¿Puede ayudarme?||
 
-# Time
-
-| ES | FR |
-| -- | --- |
-|ayer, hoy, mañana|hier, aujourd'hui, demain|
-|mañana, mediodía, tarde, noche|matin, midi, après-midi, soir|
-|antes, ahora, después|avant, maintenant, après|
-|||
-
 # Verbo
 
 | ES | FR |
@@ -39,6 +30,9 @@
 |Saber|Savoir|
 |Hacer|Faire|
 |Pagar|Payer|
+|Comprar|Acheter|
+|Ver|Regarder, Voir|
+|Vivir|Vivre|
 
 # Posesión / Adjetivos posesivos
 
@@ -64,6 +58,15 @@ Tiene un amigo en Paris, es **su** amigo.
 Tienes un perro, es **tu** perro.
 
 Tenemos un libro rojo, es **nuestro** libro.
+
+# Time
+
+| ES | FR |
+| -- | --- |
+|ayer, hoy, mañana|hier, aujourd'hui, demain|
+|mañana, mediodía, tarde, noche|matin, midi, après-midi, soir|
+|antes, ahora, después|avant, maintenant, après|
+|||
 
 # Animales
 
