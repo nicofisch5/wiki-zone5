@@ -113,9 +113,9 @@ Necessito ...
 
 # Canal de vídeos
 
-[Dreaming Spanish](https://youtube.com/c/DreamingSpanish)
-[Spanishl and School](https://youtube.com/c/SpanishlandSchool)
-[UCfG2VhlQgy5bHGmkpeKcjVA](https://youtube.com/channel/UCfG2VhlQgy5bHGmkpeKcjVA)
-[1001 reasons to learn spanish with us](https://youtube.com/c/1001reasonstolearnspanishwithus)
-[Easy Spanish](https://youtube.com/c/EasySpanish)
-[Why Not Spanish](https://youtube.com/c/WhyNotSpanish)
+[Dreaming Spanish](https://youtube.com/c/DreamingSpanish)  
+[Spanishl and School](https://youtube.com/c/SpanishlandSchool)  
+[UCfG2VhlQgy5bHGmkpeKcjVA](https://youtube.com/channel/UCfG2VhlQgy5bHGmkpeKcjVA)  
+[1001 reasons to learn spanish with us](https://youtube.com/c/1001reasonstolearnspanishwithus)  
+[Easy Spanish](https://youtube.com/c/EasySpanish)  
+[Why Not Spanish](https://youtube.com/c/WhyNotSpanish)  
